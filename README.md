@@ -2,7 +2,7 @@
 
 ## What is this project?
 
-This project is an in-depth analysis of Ribose-5-phosphate isomerase, a nearly-universal enzyme. 
+This project is an in-depth analysis of Ribose-5-phosphate isomerase, an enzyme essential to the PPP and Calvin Cycle.
 
 ## How is this project organized?
 
